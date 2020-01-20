@@ -1,4 +1,4 @@
-// Final Project
+// Programmable Signal generator with Automatic Level Control and Network Gain Calculation
 // Nurudeen Agbonoga
 
 //-----------------------------------------------------------------------------
